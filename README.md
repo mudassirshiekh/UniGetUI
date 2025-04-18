@@ -171,6 +171,7 @@ Last updated: Fri Apr 18 00:14:19 2025
 
 
 # Contributions
+## By Mudassir Alam
  UniGetUI wouldn't have been possible without the help of our dear contributors. From the person who fixed a typo to the person who improved half of the code, UniGetUI wouldn't be possible without them! :smile:<br><br>
 
 ## Contributors:
